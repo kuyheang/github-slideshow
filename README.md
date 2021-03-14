@@ -14,5 +14,5 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 
 ## Contributors
 
-- @kuyheang
+- @kuihang
 - @kylemacey
